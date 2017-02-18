@@ -1,0 +1,8 @@
+MODEL A1
+=========================================================================================
+Pgmt Charge......P =1350.0     Veh Charge........V =1200.0   Wtr Displaced....Wd =5400.0
+Pgmt Viscosity..np = 240000.0   Veh Viscosity....nv = 100.0    Wtr Viscosity....nw = 0.01
+% Solids Pgmt....r = 0.2        Veh Visc Const...Kv = -7.7832  Wtr Visc Const...Kw = -16.9936
+Mix Visc.....n_mix = 6158.7     Rel Visc Const..kvn = -4.1205  Wtr Resid Const ..k = 0.075
+Stage-Calc.......N = 5.781     Stage-Optimized...n = 6
+Optmzd Pgmt Charge = 1417.5     Optmzd Veh Charge ..= 1260.5   Optmzd Wtr Disp.....= 5851.2
